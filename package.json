@@ -1,0 +1,17 @@
+{
+    "name": "Exercise1.3",
+    "version": "1.0.0",
+    "description": "tests for madule 9",
+    "license": "ISC",
+    "author": "",
+    "type": "commonjs",
+    "scripts": {
+        "test": "mocha"
+    },
+    "devDependencies": {
+        "chai": "^6.2.2",
+        "chromedriver": "^149.0.3",
+        "mocha": "^10.7.3",
+        "selenium-webdriver": "^4.45.0"
+    }
+}
